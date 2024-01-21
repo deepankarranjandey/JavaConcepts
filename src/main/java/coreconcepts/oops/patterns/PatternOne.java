@@ -1,4 +1,4 @@
-package coreconcepts.oops;
+package coreconcepts.oops.patterns;
 
 import java.util.Scanner;
 
